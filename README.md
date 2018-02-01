@@ -1,9 +1,9 @@
 # handwashing-discovery-using-R
-Reanalyze the data behind one of the most important discoveries of modern medicne: Handwashing.
+Reanalyze the data behind one of the most important discoveries of modern medicine: Handwashing.
 
 Objective: Childbed fever is a deadly diseas affecting women that just have given birth. In the early 1840s
-at the Vienna General Hospital, as many as 10% of the women giving birth die from it. I would reanalyze the data
-that Dr. Semmelweis used to realize that something was wrong with the procedues at Vienna General Hospital.
+at the Vienna General Hospital, as many as 10% of the women giving birth died from it. I would reanalyze the data
+that Dr. Semmelweis used to realize that something was wrong with the procedures at Vienna General Hospital.
 
 Data: yearly_deaths_by_clinics.csv & monthly_deaths.csv (DataCamp)
 
@@ -20,5 +20,5 @@ students also spent time in the autopsy rooms examining corpses.
 #2. Visualizing the monthly data from Clinic 1 (monthly_deaths.csv), I can see the effect of making handwashing 
 obligatory in reducing the proportion of deaths.
 
-#3. A t-test shows that the doctors didn't wash their hands increased the proportion of deaths by between 6.7 and 10
+#3. The t-test shows that the doctors didn't wash their hands increased the proportion of deaths by between 6.7 and 10
 percentage points, according to a 95% confidence interval. The test is statisitcally significant at 95% confidence level.
